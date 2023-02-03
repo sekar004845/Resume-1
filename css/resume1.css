@@ -1,0 +1,204 @@
+*{
+  margin:0;
+  
+  box-sizing:border-box;
+}
+.container{
+	margin:0 auto;
+	width:100%;
+}
+.line{
+	height:55px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.column{
+	display:flex;
+	padding:10px;
+}
+.img{
+	max-width:100%;
+}
+.image{
+	display:flex;
+	justify-content:space-between;
+	width:100%;
+}
+.image1 img{
+	border-radius:50%;
+	height:100px;
+	width:100px;
+}
+.col1{
+	padding-top:20px;
+}
+.col2{
+	padding:10px;
+	padding-top:20px;
+}
+.col2 h1{
+	color:#0000ff87;
+}
+.line1{
+	height:3px;
+	width:100%;
+	background-color:#0000ff87;
+}
+.icon{
+	display:flex;
+	color:#0000ff87;
+}
+.icon1{
+	padding-right:10px;
+}
+a{
+	text-decoration:none;
+}
+.icon2{
+	display:flex;
+	color:#0000ff87;
+}
+.icon3{
+	padding-right:10px;
+}
+.icon4{
+	display:flex;
+	color:#0000ff87;
+}
+.icon5{
+	padding-right:10px;
+}
+.icon6{
+	display:flex;
+	color:#0000ff87;
+}
+.icon7{
+	padding-right:10px;
+}
+.col4{
+	display:flex;
+	justify-content:space-evenly;
+	padding:10px;
+}
+.summary-box{
+	height:50px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.col6{
+	display:flex;
+}
+.summaryhead h1{
+	color:#0000ff87;
+}
+.summary{
+	padding:10px;
+}
+.summaryhead{
+	padding-top:22px;
+}
+.summary-para{
+	padding:8px 35px;
+	font-size:larger;
+}
+.line2{
+	height:50px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.col7{
+	display:flex;
+}
+.proffestional{
+	padding:10px;
+}
+.proffestional-head{
+	padding-top:20px;
+	color:#0000ff87;
+}
+.objective-para{
+	padding:8px 35px;
+	font-size:larger;
+}
+.line3{
+	height:50px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.education-line{
+	padding:10px;
+}
+.col8{
+	display:flex;
+}
+.education{
+	padding-top:20px;
+	color:#0000ff87;
+}
+.ugline1{
+	height:40px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.ugline{
+	padding:10px;
+}
+.col9{
+	display:flex;
+}
+.ug{
+	padding-top:20px;
+	color:#0000ff87;
+}
+.ug1{
+	font-size:larger;
+	padding-left:30px;
+}
+.ugright{
+	padding-left:100px;
+}
+.trainingline{
+	height:40px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.col10{
+	display:flex;
+}
+.training{
+	padding:10px;
+}
+.training1{
+	padding-top:20px;
+	color:#0000ff87;
+}
+.training2{
+	padding:5px;
+	font-size:larger;
+	padding-left:30px; 
+}
+.trainings{
+	padding-left:100px;
+}
+.skillsline{
+	height:50px;
+	width:3px;
+	background-color:#0000ff87;
+}
+.skills{
+	padding:10px;
+}
+.col11{
+	display:flex;
+}
+.skills1{
+	padding-top:20px;
+	color:#0000ff87;
+}
+.skills2{
+	padding-left:100px;
+	font-size:larger;
+}
+ul{
+	line-height:30px;
+}
